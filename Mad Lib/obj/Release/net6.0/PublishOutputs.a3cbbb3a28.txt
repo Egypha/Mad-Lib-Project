@@ -1,0 +1,5 @@
+C:\Users\Twat\Documents\Programming\Mad Lib Project\Mad Lib\bin\Release\net6.0\app.publish\Mad Lib.exe
+C:\Users\Twat\Documents\Programming\Mad Lib Project\Mad Lib\bin\Release\net6.0\app.publish\Mad Lib.dll
+C:\Users\Twat\Documents\Programming\Mad Lib Project\Mad Lib\bin\Release\net6.0\app.publish\Mad Lib.deps.json
+C:\Users\Twat\Documents\Programming\Mad Lib Project\Mad Lib\bin\Release\net6.0\app.publish\Mad Lib.runtimeconfig.json
+C:\Users\Twat\Documents\Programming\Mad Lib Project\Mad Lib\bin\Release\net6.0\app.publish\Mad Lib.pdb
